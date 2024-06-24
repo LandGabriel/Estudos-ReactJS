@@ -1,0 +1,7 @@
+{
+    "products": []
+}
+"scripts": {
+    "server": "node server.js"
+  }
+  
